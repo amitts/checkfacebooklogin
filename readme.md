@@ -1,4 +1,4 @@
-#Check FB login
+#Check facebook login
 
 This is a simple script to check if the user is logged into facebook or not.
 
